@@ -16,8 +16,8 @@
     "oauth_redirect_uri_production": "https://derrickandreas254-jpg.github.io/dtrader-template/auth/callback"
   },
   "app_id": {
-    "staging": "DOT92965499",
-    "production": "DOT92965499"
+    "staging": "33XSUHpw6USPLVDFu0lP4",
+    "production": "33XSUHpw6USPLVDFu0lP4"
   },
   "colors": {
     "primary": "#ff444f",
