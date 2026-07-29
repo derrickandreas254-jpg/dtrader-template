@@ -1,12 +1,12 @@
 {
-  "brand_name": "Your Company Name",
+  "brand_name": "Derrick Trading Co",
   "brand_domain": "derrickandreas254-jpg.github.io",
   "brand_hostname": {
     "staging": "derrickandreas254-jpg.github.io/dtrader-template",
     "production": "derrickandreas254-jpg.github.io/dtrader-template"
   },
   "platform": {
-    "name": "Your Platform Name",
+    "name": "Derrick Trader Pro",
     "description": "Trade with confidence",
     "home_url": "https://derrickandreas254-jpg.github.io/dtrader-template/dashboard",
     "help_centre_url": "https://derrickandreas254-jpg.github.io/dtrader-template/help"
@@ -16,8 +16,8 @@
     "oauth_redirect_uri_production": "https://derrickandreas254-jpg.github.io/dtrader-template/auth/callback"
   },
   "app_id": {
-    "staging": "YOUR_APP_ID_HERE",
-    "production": "YOUR_APP_ID_HERE"
+    "staging": "DOT92965499",
+    "production": "DOT92965499"
   },
   "colors": {
     "primary": "#ff444f",
@@ -30,7 +30,7 @@
     "logo": "https://derrickandreas254-jpg.github.io/dtrader-template/logo.svg"
   },
   "footer": {
-    "copyright": "© 2026 Your Company Name. All rights reserved.",
+    "copyright": "© 2026 Derrick Trading Co. All rights reserved.",
     "links": [
       {
         "label": "Terms of Service",
